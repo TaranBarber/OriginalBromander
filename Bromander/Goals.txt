@@ -1,0 +1,66 @@
+Goals Log:
+
+----5/9/2011----
+Threads - 4/5. Need to test out with other cpus
+2D Animation - 3/5. need to implement animator for each state.
+Interactivity - 2/5. Focusing issues. Keys.
+Sounds and Music - 0/5. There are no sounds.
+Collision Detection - 3/5. Update this
+Path Finding - 0/5 Nothing.
+AI - 2/5 because of mccorl
+Persistence - 2/5. FIXIT. make toString methods for seriz
+Optimization Techniques. - 3/5. Already well optimized because of threading. 
+                                Research for any unknown methods for this
+Game Design. - 2/5 FIX TILE AND ITEM IDENTIFICATION SYSTEM. MAKE LEVELS
+
+OVERALL 21/50
+----------------
+
+----5/12/2011----
+Threads - 5/5 
+2D Animation - 3/5. need to implement animator for each state.
+Interactivity - 3/5. Focusing issues. Keys.
+Sounds and Music - 0/5. There are no sounds.
+Collision Detection - 4/5. Keep an eye on it
+Path Finding - 0/5 Nothing.
+AI - 4/5 because of mccorl
+Persistence - 4/5. Decide on what will be saved exactly
+Optimization Techniques. - 4/5. Already well optimized because of threading. 
+                                Research for any unknown methods for this
+Game Design. - 2/5 FIX TILE AND ITEM IDENTIFICATION SYSTEM. MAKE LEVELS
+
+OVERALL 29/50
+----------------
+
+----5/17/2011----
+Threads - 5/5 
+2D Animation - 3/5. need to implement animator for each state.
+Interactivity - 3/5. Focusing issues. Keys.
+Sounds and Music - 0/5. There are no sounds.
+Collision Detection - 4/5. Keep an eye on it
+Path Finding - 1/5 Nothing. Rocks are unwalkable
+AI - 4/5 because of mccorl
+Persistence - 4/5. Decide on what will be saved exactly
+Optimization Techniques. - 5/5. Already well optimized because of threading. 
+                                Research for any unknown methods for this
+Game Design. - 2/5 FIX TILE AND ITEM IDENTIFICATION SYSTEM. MAKE LEVELS
+
+OVERALL 29/50
+----------------
+
+----5/24/2011----
+Threads - 5/5 
+2D Animation - 3/5. Need to implement animator for each state.
+Interactivity - 4/5. Focusing issues between the View and the ChatBox on the GamePanel
+Sounds and Music - 0/5. There are no sounds.
+Collision Detection - 5/5.
+Path Finding - 3/5. Paths are everywhere where tiles are walkable. 
+					The player is still able to walk on unwalkable tiles however.
+AI - 4/5. Need to change speeds of AI to make it more realistic
+Persistence - 4/5. The Game saves correctly but still need to decide on exactly what to save.
+Optimization Techniques. - 5/5. Already well optimized because of threading. 
+                                Research for any unknown methods for this
+Game Design. - 3/5 Only one level made so far. The editor allows us to make levels now though.
+
+OVERALL 36/50
+----------------
